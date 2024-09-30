@@ -29,6 +29,11 @@ HelloToast est une simple application Android qui affiche un message "Toast" lor
 3. Synchronisez le projet avec les fichiers Gradle et exécutez l'application sur un émulateur ou un appareil réel.
 
 
+
+
+[Screen_recording_20240930_193924.webm](https://github.com/user-attachments/assets/e7e84130-1926-4e56-903a-9ee16de76a98)
+
+
 ## Auteur
 - Youness Amerga
 
